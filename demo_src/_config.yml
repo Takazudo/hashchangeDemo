@@ -46,7 +46,7 @@ kramdown:
 permalink: /pages/:title.html
 
 # all variables can be refered in templates
-title : jQuery hashcnahge
+title : jQuery hashchange
 basedir: /hashchangeDemo/demo
 
 # ignore these
